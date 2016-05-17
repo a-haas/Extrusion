@@ -2,7 +2,7 @@
 
 ## Résultats
 
-<img src="2016-05-13-102451_652x679_scrot.png">Screenshot de l'application</img>
+<img src="2016-05-13-102451_652x679_scrot.png"></img>
 
 ## Pour compiler et lancer :
 
