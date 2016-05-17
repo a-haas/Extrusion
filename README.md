@@ -1,5 +1,9 @@
 # Manuel d'utilisation du programme
 
+## Résultats
+
+<img src="2016-05-13-102451_652x679_scrot.png">Screenshot de l'application</img>
+
 ## Pour compiler et lancer :
 
 make clean
